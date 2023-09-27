@@ -16,3 +16,16 @@ echo "Multiplica 2 * 2 " .  2 * 2;
 echo "Divide 2 / 2 " .  2 / 2;
 echo "Modulo 2 % 2 " .  2 % 2; //Nos brinda el residuo de la division
 echo "Exponencial 2 * 2 " .  2 ** 2;
+
+//Comparacion
+//Igual ==, valor "9" == 9 True
+//Igual ==, tipo,valor 9 === 9 True
+// Diferencias !=, valor 
+// Diferencias !== valor - tipo
+// <, >, <=, >=
+
+//Variables Variables
+$app = 'name';
+$name = 'platzi';
+echo $$app; // Valor dinamico porque puedo llamar app pero el resultado seria platzi
+
