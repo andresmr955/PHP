@@ -10,7 +10,14 @@
  class Answer
 {
     protected $clients = []; // Mi comentario
-    protected $insurers = [];
+    /**
+    * Comentario de varias  
+    * lineas para
+    * palabra
+    */
+    protected $insurers = []; #Mi comentario  cada comentario debe decir su utilidad
+
+    // Nuestro computador esta programado para entender PHP
 }
  </p>
 </body>
