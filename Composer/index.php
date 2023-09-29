@@ -2,4 +2,4 @@
 
 require __Dir__ . '/vendor/autoload.php';
 
-echo upper('hOla AnDREs');
+echo lower('hOla AnDREs');
